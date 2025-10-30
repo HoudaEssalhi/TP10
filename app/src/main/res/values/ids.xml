@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvType" type="id" />
+    <item name="tvDate" type="id" />
+    <item name="btnEdit" type="id" />
+    <item name="radioCourant" type="id" />
+    <item name="radioEpargne" type="id" />
+    <item name="typeGroup" type="id" />
+    <item name="etSolde" type="id" />
+    <item name="tilSolde" type="id" />
+</resources>
